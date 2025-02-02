@@ -8,8 +8,8 @@ Predicting text similarity between two texts (similar or not) by taking both lex
 
 Then, the models were evaluated using several classification metrics, and finally ranked using TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)
 TOPSIS package used - Topsis_Mandar_102203163 
-PyPI - [https://pypi.org/project/Topsis-Mandar-102203163/](https://pypi.org/project/Topsis-Mandar-102203163/)
-GitHub - [https://github.com/mandarmgd/topsis](https://github.com/mandarmgd/topsis)
+- PyPI - [https://pypi.org/project/Topsis-Mandar-102203163/](https://pypi.org/project/Topsis-Mandar-102203163/)
+- GitHub - [https://github.com/mandarmgd/topsis](https://github.com/mandarmgd/topsis)
 
 ## Models used 
 
